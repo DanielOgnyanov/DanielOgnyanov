@@ -2,11 +2,6 @@
 
 I'm Daniel
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/daniel-tsenkov-766b38166/"
-
 <!--
 **DanielOgnyanov/DanielOgnyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
