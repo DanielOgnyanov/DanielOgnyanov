@@ -4,7 +4,7 @@ I'm Daniel
 
 Connect with me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daniel-tsenkov-766b38166/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tsenkov-766b38166/)
 
 
 
