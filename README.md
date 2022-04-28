@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my personal project Crypto World. The app permit to buy the top 10 crypto by market cap at the moment, for example Bitcoin, Ethereum, Binance , Solana and more.
 
-- 🌱 I’m currently learning Java for more than 1 year. All my certificate are present into my  Linkedin Profile. 
+- 🌱 I’m currently learning Java for more than 1 year. All my certificate are present into my Linkedin Profile. 
 
 - 💬  Personal interest in cryptocurrency.
 
