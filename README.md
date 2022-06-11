@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DanielOgnyanov&style=flat-square)
 
-- 🔭 I’m currently working on my personal project Crypto World. The app permit to buy the top 10 crypto by market cap at the moment, for example Bitcoin, Ethereum, Solana, Binance, Xrp, Cardano, Polkadot, Dogecoin, Tether and more.
+- 🔭 I’m currently working on my personal project Crypto World. The app permit to buy the top 10 crypto by market cap at the moment, for example ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white), ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white), Solana, Binance, Xrp, Cardano, Polkadot, Dogecoin, Tether and more.
 
 - 🌱 I’m currently learning Java for more than 1 year.All my certificate are present into my Linkedin Profile. 
 
