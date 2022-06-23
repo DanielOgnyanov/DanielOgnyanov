@@ -13,7 +13,7 @@
 
 ### - 📫 Reach me: On My Linkedin Profile. Write me anytime.
 
-### Connect with me:
+### Connect with me :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tsenkov-766b38166/)
 
@@ -21,7 +21,7 @@
 
 
 
-### Languages and Tools:
+### Languages and Tools :
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
