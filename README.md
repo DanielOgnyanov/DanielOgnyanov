@@ -11,7 +11,7 @@
 - 💬 Personal interest in cryptocurrency.
 
 
-### - 📫 Reach me: On My Linkedin Profile.Write me anytime.
+### - 📫 Reach me:  On My Linkedin Profile.Write me anytime.
 
 ### Connect with me:
 
