@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Java for more than 2 year. All my certificate are present into my Linkedin Profile. 
 
-- 💬Personal interest in cryptocurrency.
+- 💬 Personal interest in cryptocurrency.
 
 
 ### - 📫 Reach me:On My Linkedin Profile.Write me anytime.
