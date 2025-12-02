@@ -6,10 +6,13 @@
 
 My personal project :
 
-- 🔭 Crypto World - the app permit to buy the top 10 crypto by market cap at the moment , for example  Bitcoin, Ethereum , Binance , Solana ,Xrp, Cardano , Polkadot , Dogecoin , Tether and more.
+- Crypto World - the app permit to buy the top 10 crypto by market cap at the moment , for example  Bitcoin, Ethereum , Binance , Solana ,Xrp, Cardano , Polkadot , Dogecoin , Tether and more.
 
 - Custodia CRM is a Spring Boot-based customer relationship management system that allows users to manage customers, contacts, opportunities, and notes.
 It features user role management, JWT authentication, and secure data handling with a clean service-oriented architecture.
+
+- STOCK-PREDICTOR-ML A full-stack stock prediction platform built with Java Spring Boot and a React.Js frontend, powered by machine learning (Python).
+Includes user authentication with JWT, AWS-ready deployment, real-time stock data, price history, and automated news analysis.
 
 
 - 💬 Personal interest in cryptocurrency.
