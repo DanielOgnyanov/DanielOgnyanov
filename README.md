@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DanielOgnyanov&style=flat-square)
 
-My personal project :
+Project :
 
 - Crypto World - the app permit to buy the top 10 crypto by market cap at the moment , for example  Bitcoin, Ethereum , Binance , Solana ,Xrp, Cardano , Polkadot , Dogecoin , Tether and more.
 
