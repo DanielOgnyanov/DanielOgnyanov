@@ -14,7 +14,8 @@ It features user role management, JWT authentication, and secure data handling w
 - STOCK-PREDICTOR-ML A full-stack stock prediction platform built with Java Spring Boot and a React.Js frontend, powered by machine learning (Python).
 Includes user authentication with JWT, AWS-ready deployment, real-time stock data, price history, and automated news analysis.
 
-LINK - https://stock-predictor-ml-frontend-50awiafcx-daniels-projects-429f878d.vercel.app/
+LINK FE - https://stock-predictor-ml-frontend-50awiafcx-daniels-projects-429f878d.vercel.app/
+Soon will be added the BE to AWS.
 
 
 - 💬 Personal interest in cryptocurrency.
