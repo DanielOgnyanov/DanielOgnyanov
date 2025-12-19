@@ -15,7 +15,7 @@ It features user role management, JWT authentication, and secure data handling w
 Includes user authentication with JWT, AWS-ready deployment, real-time stock data, price history, and automated news analysis.
 
 LINK FE - https://stock-predictor-ml-frontend-50awiafcx-daniels-projects-429f878d.vercel.app/
-Soon will be added the BE to AWS.
+
 
 
 - 💬 Personal interest in cryptocurrency.
